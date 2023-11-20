@@ -1,2 +1,2 @@
 # learning
-my DevOPS Class
+my DevOPS Class practice
